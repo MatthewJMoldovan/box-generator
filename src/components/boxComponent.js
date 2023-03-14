@@ -2,7 +2,7 @@ import React, { userState, useState } from "react";
 import "./style.css";
 
 
-const allBoxes = [{color:'red'}, {color: 'blue'},{color: 'green'},{color: 'black'}];
+const allBoxes = [];
 
 
 const Box = (props) => {
