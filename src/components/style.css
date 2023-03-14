@@ -1,0 +1,13 @@
+.box{
+    width: 225px;
+    height: 225px;
+    background-color: grey;
+    margin: 15px;
+}
+
+.boxCard{
+    display: flex;
+    margin: 25px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
